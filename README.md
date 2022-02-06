@@ -31,7 +31,7 @@ train(X_train, y_train, B)
 ## Installation
 The only requirement is Python >=3.6. Then you can acquire the package with:
 ```bash
-pip install sarcasticGD
+pip install sarcastic_gd
 ```
 
 ## License
