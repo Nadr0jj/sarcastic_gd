@@ -1,6 +1,6 @@
  
 # SarcasticGD: Sarcastic learning with just one line
-Stochastic gradient descent is well known for it's convergence garauntees and simple algorithm. However, one thing it's not known for is its ability to mock the user while it learns. Introducing **sarcastic gradient descent**: sarcastic learning with just one line.
+Stochastic gradient descent is well known for it's convergence garauntees and simple algorithm. However, one thing it's not known for is its ability to mock the user while it learns. Introducing **sarcastic gradient descent**: sarcastic-stochastic learning with just one line.
 
 ## Use
 Using just a single line of code, users can now bear considerably more abuse and snark while they train their models. 
