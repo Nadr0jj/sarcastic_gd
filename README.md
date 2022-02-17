@@ -19,8 +19,8 @@ train(X_train, y_train, B)
 #### Output
 ```py
 (1)   err: 13.2453
-(1)   err: 13.2453
-(1)   err: 13.2453
+(2)   err: 12.1942
+(3)   err: 12.1753
 .
 .
 .
